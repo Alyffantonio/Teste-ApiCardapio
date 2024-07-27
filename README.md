@@ -10,7 +10,7 @@ Antes de iniciar, você deve ter o Node.js e o NPM instalados em sua máquina.
 🚀 Instalando
 Primeiro, você deve clonar o projeto na sua máquina, para isso você pode colar o seguinte comando em seu terminal
 
-git clone https://github.com/Fernanda-Kipper/frontend-cardapio.git
+git clone https://github.com/Alyffantonio/Teste-ApiCardapio/tree/main
 cd frontend-cardapio
 Para instalar as dependências, execute o seguinte comando:
 
