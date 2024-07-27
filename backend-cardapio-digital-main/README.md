@@ -13,7 +13,7 @@ Primeiro você deve clonar o repositório,
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/fernandakipper/crud-java-back
+$ git clone https://github.com/Alyffantonio/Teste-ApiCardapio/tree/main/backend-cardapio-digital-main
 
 # Acesse-o
 $ cd crud-java-back
