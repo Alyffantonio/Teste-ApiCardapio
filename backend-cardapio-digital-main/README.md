@@ -3,9 +3,7 @@
 
 Essa aplicação foi desenvolvido durante o processo seletivo ,utilizando **Java Spring e Spring MVC** para criação do servidor, **Spring Data JPA** para manipulação e persistência de dados, **Lombok** para geração de boilerplates e Postgres Driver para realizar a conexão com banco de dados Postgress.
 
-<h2 id="pre-requisites">💻 Requisitos</h2> 
 
-Para rodar esse projeto você precisa ter o Java instalado na sua máquina.
 
 <h2 id="how-to-use"> 🚀 Instalando o projeto</h2>
 
